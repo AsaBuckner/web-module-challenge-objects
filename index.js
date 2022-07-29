@@ -177,10 +177,7 @@ Use the getReviewsByRating function below to do the following:
   ]
 */
 
- function getReviewByRating(array,Rating) {
-    let ratingsOrg = []
-    for(let i )
-  }
+ 
 
   
 /* 💪💪💪💪💪💪💪💪💪💪 STRETCH 2: 💪💪💪💪💪💪💪💪💪💪   
